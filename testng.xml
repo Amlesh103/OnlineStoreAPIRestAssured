@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="API Test Suite" >
+    <listeners>
+        <listener class-name="utils.ExtentReporter"></listener>
+    </listeners>
+
+    <test name="Product Data Driven Tests">
+    <classes>
+        <class name="testcases.ProductDataDrivenTests">
+<!--        <methods>-->
+<!--            <include name="testAddNewProduct"/>-->
+<!--            <include name="testdeleteProduct"/>-->
+<!--        </methods>-->
+    </class>
+    </classes>
+    </test>
+        <test name="Product Tests">
+            <classes>
+        <class name="testcases.ProductTests">
+<!--            <methods><include name="getAllProductCategories"/>-->
+<!--                <include name="testGetProductByCategory"/>-->
+<!--                <include name="testCreateProducts"/>-->
+<!--                <include name="testUpdateProduct"/>-->
+<!--                <include name="testDeleteProduct"/>-->
+<!--            </methods>-->
+        </class>
+            </classes>
+        </test>
+    <test name="User Tests">
+        <classes>
+        <class name="testcases.UserTests">
+        </class>
+        </classes>
+    </test>
+
+    <test name="Cart Tests">
+        <classes>
+            <class name="testcases.CartTests">
+            </class>
+        </classes>
+    </test>
+
+    <test name="Login Tests">
+        <classes>
+            <class name="testcases.LoginTests">
+            </class>
+        </classes>
+    </test>
+
+    <test name = "Schema Validation Tests" >
+        <classes>
+            <class name="testcases.SchemaValidatorTests">
+            </class>
+        </classes>
+    </test>
+
+</suite>

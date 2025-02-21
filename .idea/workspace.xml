@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="44bbbe46-1602-46fd-b00c-1b978923d14d" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2sr69kCTpWBqnlsny4Giwpqpvlt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortKey" value="BY_TIME_ASCENDING" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.CartTests.executor": "Run",
+    "TestNG.CartTests.testAddProductToCart.executor": "Run",
+    "TestNG.CartTests.testGetCartForUser.executor": "Run",
+    "TestNG.CartTests.testGetCartSorted.executor": "Run",
+    "TestNG.CartTests.testGetCartWithinDateRange.executor": "Run",
+    "TestNG.CartTests.testGetCartsByDateRange.executor": "Run",
+    "TestNG.E:/IdeaProjects/OnlineStoreFakeRestAPI/testng.xml.executor": "Run",
+    "TestNG.LoginTests.executor": "Run",
+    "TestNG.LoginTests.testInvalidLoginAuth.executor": "Run",
+    "TestNG.LoginTests.testLoginAuth.executor": "Run",
+    "TestNG.LoginTests.testValidLogin.executor": "Run",
+    "TestNG.ProductDataDrivenTests.executor": "Run",
+    "TestNG.ProductTests.executor": "Run",
+    "TestNG.ProductTests.getAllProductCategories.executor": "Run",
+    "TestNG.ProductTests.testCreateProducts (1).executor": "Run",
+    "TestNG.ProductTests.testCreateProducts (2).executor": "Run",
+    "TestNG.ProductTests.testCreateProducts.executor": "Run",
+    "TestNG.ProductTests.testDeleteProduct.executor": "Run",
+    "TestNG.ProductTests.testGetAllProducts.executor": "Run",
+    "TestNG.ProductTests.testGetProductByID.executor": "Run",
+    "TestNG.ProductTests.testGetProductsSorted (1).executor": "Run",
+    "TestNG.ProductTests.testGetProductsSorted (2).executor": "Run",
+    "TestNG.ProductTests.testGetProductsSorted.executor": "Run",
+    "TestNG.ProductTests.testGetProductsWithLimit.executor": "Run",
+    "TestNG.ProductTests.testUpdateProduct.executor": "Run",
+    "TestNG.SchemaValidatorTests.executor": "Run",
+    "TestNG.SchemaValidatorTests.testLoginSchemaValidation.executor": "Run",
+    "TestNG.SchemaValidatorTests.testProductSchemaValidation.executor": "Run",
+    "TestNG.SchemaValidatorTests.testUserSchemaValidation.executor": "Run",
+    "TestNG.UserTests.executor": "Run",
+    "TestNG.UserTests.testGetUsersSorted.executor": "Run",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/IdeaProjects/OnlineStoreFakeRestAPI/src/test/java/utils"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IdeaProjects\OnlineStoreFakeRestAPI\src\test\java\utils" />
+      <recent name="E:\IdeaProjects\OnlineStoreFakeRestAPI\testdata" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IdeaProjects\OnlineStoreFakeRestAPI\src\test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.SchemaValidatorTests">
+    <configuration name="E:/IdeaProjects/OnlineStoreFakeRestAPI/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OnlineStoreFakeRestAPI" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SchemaValidatorTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OnlineStoreFakeRestAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testcases" />
+      <option name="MAIN_CLASS_NAME" value="testcases.SchemaValidatorTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SchemaValidatorTests.testLoginSchemaValidation" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OnlineStoreFakeRestAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testcases" />
+      <option name="MAIN_CLASS_NAME" value="testcases.SchemaValidatorTests" />
+      <option name="METHOD_NAME" value="testLoginSchemaValidation" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SchemaValidatorTests.testProductSchemaValidation" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OnlineStoreFakeRestAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testcases" />
+      <option name="MAIN_CLASS_NAME" value="testcases.SchemaValidatorTests" />
+      <option name="METHOD_NAME" value="testProductSchemaValidation" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SchemaValidatorTests.testUserSchemaValidation" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OnlineStoreFakeRestAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testcases" />
+      <option name="MAIN_CLASS_NAME" value="testcases.SchemaValidatorTests" />
+      <option name="METHOD_NAME" value="testUserSchemaValidation" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.SchemaValidatorTests" />
+        <item itemvalue="TestNG.SchemaValidatorTests.testLoginSchemaValidation" />
+        <item itemvalue="TestNG.SchemaValidatorTests.testUserSchemaValidation" />
+        <item itemvalue="TestNG.SchemaValidatorTests.testProductSchemaValidation" />
+        <item itemvalue="TestNG.E:/IdeaProjects/OnlineStoreFakeRestAPI/testng.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44bbbe46-1602-46fd-b00c-1b978923d14d" name="Changes" comment="" />
+      <created>1739201207132</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739201207132</updated>
+    </task>
+    <servers />
+  </component>
+</project>
