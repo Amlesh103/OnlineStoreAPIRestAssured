@@ -22,7 +22,7 @@ public class Routes {
     public static final String GET_CART_BY_ID="/carts/{id}";
     public static final String GET_CART_WITH_LIMIT= "/carts?limit={limit}";
     public static final String GET_CART_SORTED= "/carts?sort={order}";
-    public static final String GET_CART_IN_DATE_RANGE= "/carts?startdate={startdate}&endate={enddate}";
+    public static final String GET_CART_IN_DATE_RANGE= "/carts?startdate={startdate}&enddate={enddate}";
     public static final String GET_USER_CARTS= "/carts/user/{userId}";
     public static final String ADD_PRODUCT_TO_CART= "/carts";
     public static final String UPDATE_CART= "/carts/{id}";
