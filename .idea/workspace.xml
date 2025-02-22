@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44bbbe46-1602-46fd-b00c-1b978923d14d" name="Changes" comment="" />
+    <list default="true" id="44bbbe46-1602-46fd-b00c-1b978923d14d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/test_logging.txt" beforeDir="false" afterPath="$PROJECT_DIR$/logs/test_logging.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/routes/Routes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/routes/Routes.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +20,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -29,6 +36,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "TestNG.CartTests.executor": "Run",
     "TestNG.CartTests.testAddProductToCart.executor": "Run",
     "TestNG.CartTests.testGetCartForUser.executor": "Run",
@@ -60,6 +68,7 @@
     "TestNG.SchemaValidatorTests.testUserSchemaValidation.executor": "Run",
     "TestNG.UserTests.executor": "Run",
     "TestNG.UserTests.testGetUsersSorted.executor": "Run",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "E:/IdeaProjects/OnlineStoreFakeRestAPI/src/test/java/utils"
   }
@@ -73,11 +82,46 @@
       <recent name="E:\IdeaProjects\OnlineStoreFakeRestAPI\src\test" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.SchemaValidatorTests">
+  <component name="RunManager" selected="TestNG.E:/IdeaProjects/OnlineStoreFakeRestAPI/testng.xml">
+    <configuration name="CartTests.testGetCartWithinDateRange" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OnlineStoreFakeRestAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testcases" />
+      <option name="MAIN_CLASS_NAME" value="testcases.CartTests" />
+      <option name="METHOD_NAME" value="testGetCartWithinDateRange" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="E:/IdeaProjects/OnlineStoreFakeRestAPI/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="OnlineStoreFakeRestAPI" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OnlineStoreFakeRestAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testcases" />
+      <option name="MAIN_CLASS_NAME" value="testcases.LoginTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -119,49 +163,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SchemaValidatorTests.testProductSchemaValidation" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="OnlineStoreFakeRestAPI" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testcases.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="testcases" />
-      <option name="MAIN_CLASS_NAME" value="testcases.SchemaValidatorTests" />
-      <option name="METHOD_NAME" value="testProductSchemaValidation" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SchemaValidatorTests.testUserSchemaValidation" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="OnlineStoreFakeRestAPI" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testcases.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="testcases" />
-      <option name="MAIN_CLASS_NAME" value="testcases.SchemaValidatorTests" />
-      <option name="METHOD_NAME" value="testUserSchemaValidation" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.E:/IdeaProjects/OnlineStoreFakeRestAPI/testng.xml" />
+        <item itemvalue="TestNG.CartTests.testGetCartWithinDateRange" />
+        <item itemvalue="TestNG.LoginTests" />
         <item itemvalue="TestNG.SchemaValidatorTests" />
         <item itemvalue="TestNG.SchemaValidatorTests.testLoginSchemaValidation" />
-        <item itemvalue="TestNG.SchemaValidatorTests.testUserSchemaValidation" />
-        <item itemvalue="TestNG.SchemaValidatorTests.testProductSchemaValidation" />
-        <item itemvalue="TestNG.E:/IdeaProjects/OnlineStoreFakeRestAPI/testng.xml" />
       </list>
     </recent_temporary>
   </component>
