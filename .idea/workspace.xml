@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="44bbbe46-1602-46fd-b00c-1b978923d14d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/test_logging.txt" beforeDir="false" afterPath="$PROJECT_DIR$/logs/test_logging.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/routes/Routes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/routes/Routes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,46 +31,46 @@
     <option name="showLibraryContents" value="true" />
     <option name="sortKey" value="BY_TIME_ASCENDING" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "TestNG.CartTests.executor": "Run",
-    "TestNG.CartTests.testAddProductToCart.executor": "Run",
-    "TestNG.CartTests.testGetCartForUser.executor": "Run",
-    "TestNG.CartTests.testGetCartSorted.executor": "Run",
-    "TestNG.CartTests.testGetCartWithinDateRange.executor": "Run",
-    "TestNG.CartTests.testGetCartsByDateRange.executor": "Run",
-    "TestNG.E:/IdeaProjects/OnlineStoreFakeRestAPI/testng.xml.executor": "Run",
-    "TestNG.LoginTests.executor": "Run",
-    "TestNG.LoginTests.testInvalidLoginAuth.executor": "Run",
-    "TestNG.LoginTests.testLoginAuth.executor": "Run",
-    "TestNG.LoginTests.testValidLogin.executor": "Run",
-    "TestNG.ProductDataDrivenTests.executor": "Run",
-    "TestNG.ProductTests.executor": "Run",
-    "TestNG.ProductTests.getAllProductCategories.executor": "Run",
-    "TestNG.ProductTests.testCreateProducts (1).executor": "Run",
-    "TestNG.ProductTests.testCreateProducts (2).executor": "Run",
-    "TestNG.ProductTests.testCreateProducts.executor": "Run",
-    "TestNG.ProductTests.testDeleteProduct.executor": "Run",
-    "TestNG.ProductTests.testGetAllProducts.executor": "Run",
-    "TestNG.ProductTests.testGetProductByID.executor": "Run",
-    "TestNG.ProductTests.testGetProductsSorted (1).executor": "Run",
-    "TestNG.ProductTests.testGetProductsSorted (2).executor": "Run",
-    "TestNG.ProductTests.testGetProductsSorted.executor": "Run",
-    "TestNG.ProductTests.testGetProductsWithLimit.executor": "Run",
-    "TestNG.ProductTests.testUpdateProduct.executor": "Run",
-    "TestNG.SchemaValidatorTests.executor": "Run",
-    "TestNG.SchemaValidatorTests.testLoginSchemaValidation.executor": "Run",
-    "TestNG.SchemaValidatorTests.testProductSchemaValidation.executor": "Run",
-    "TestNG.SchemaValidatorTests.testUserSchemaValidation.executor": "Run",
-    "TestNG.UserTests.executor": "Run",
-    "TestNG.UserTests.testGetUsersSorted.executor": "Run",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/IdeaProjects/OnlineStoreFakeRestAPI/src/test/java/utils"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;TestNG.CartTests.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.CartTests.testAddProductToCart.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.CartTests.testGetCartForUser.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.CartTests.testGetCartSorted.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.CartTests.testGetCartWithinDateRange.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.CartTests.testGetCartsByDateRange.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.E:/IdeaProjects/OnlineStoreFakeRestAPI/testng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginTests.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginTests.testInvalidLoginAuth.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginTests.testLoginAuth.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginTests.testValidLogin.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ProductDataDrivenTests.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ProductTests.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ProductTests.getAllProductCategories.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ProductTests.testCreateProducts (1).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ProductTests.testCreateProducts (2).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ProductTests.testCreateProducts.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ProductTests.testDeleteProduct.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ProductTests.testGetAllProducts.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ProductTests.testGetProductByID.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ProductTests.testGetProductsSorted (1).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ProductTests.testGetProductsSorted (2).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ProductTests.testGetProductsSorted.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ProductTests.testGetProductsWithLimit.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ProductTests.testUpdateProduct.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SchemaValidatorTests.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SchemaValidatorTests.testLoginSchemaValidation.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SchemaValidatorTests.testProductSchemaValidation.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SchemaValidatorTests.testUserSchemaValidation.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.UserTests.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.UserTests.testGetUsersSorted.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/IdeaProjects/OnlineStoreFakeRestAPI/src/test/java/utils&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\IdeaProjects\OnlineStoreFakeRestAPI\src\test\java\utils" />
